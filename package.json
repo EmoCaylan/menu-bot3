@@ -1,0 +1,22 @@
+{
+  "name": "discord-menu-system",
+  "version": "1.0.0",
+  "description": "coded by kei",
+  "main": "main.js",
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "keixyz"
+  },
+  "keywords": [
+    "kei"
+  ],
+  "author": "kei",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.1"
+  }
+}
